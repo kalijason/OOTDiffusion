@@ -1,3 +1,5 @@
+venv/
+checkpoints/
 *.ckpt
 __pycache__/
 .vscode/
