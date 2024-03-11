@@ -11,7 +11,4 @@ tqdm==4.64.1
 gradio==4.16.0
 config==0.5.1
 einops==0.7.0
-ninja==1.10.2
-onnxruntime-gpu==1.16.3
-tb-nightly
-basicsr
+onnxruntime==1.16.2
